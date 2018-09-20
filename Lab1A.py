@@ -34,7 +34,7 @@ def process_dir(path):
     #print(file_list)
     cat_list = []
     dog_list = []
-    
+    # great job man
     
     # Your code goes here
     if len(dir_list) == 0 and len(file_list) == 0:  # if there is no sub directory or files in the directory 
